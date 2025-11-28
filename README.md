@@ -3,7 +3,8 @@ The (in)famous TF2 HUD that looks like Persona 5's UI made by [Zeesastrous](http
 It includes fixes such as:
 - Cart player number
 - Casual medals on leaderboard
-- Pull requests from the main page
+- Pull requests from the main page <br />
+
 Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
 
 # INSTALLATION
