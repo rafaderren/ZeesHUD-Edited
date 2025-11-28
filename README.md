@@ -4,7 +4,7 @@ It includes fixes such as:
 - Cart player number
 - Casual medals on leaderboard
 - Pull requests from the main page
-[Also includes optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
+Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
 
 # INSTALLATION
 - Click **Code** *(that big green button above the list of files)* and click **Download ZIP**
