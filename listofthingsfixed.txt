@@ -1,3 +1,5 @@
+WE LOST TRACK LOL
+
 -fixed payloads in pl mode not showing players on the payload
 -fixed floating health on robots and teammates
 -fixed spectator killstreak icon overlapping the killstreak counter
