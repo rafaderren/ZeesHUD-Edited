@@ -977,6 +977,66 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TipPanel"
-		"xpos"			"9999"
+		"xpos"			"c-250"
+		"ypos"			"395"
+		"zpos"			"10"
+		"wide"			"500"
+		"tall"			"40"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"63 59 55 0"
+		
+		"TipPanelBG"
+		{
+			"ControlName"		"ScalableImagePanel"
+			"fieldName"		"TipPanelBG"
+			"xpos"			"0"
+			"ypos"			"10"
+			"zpos"			"-3"
+			"wide"			"500"
+			"tall"			"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/box_3_n"
+
+			"src_corner_height"	"23"
+			"src_corner_width"	"23"
+
+			"draw_corner_width"	"5"
+			"draw_corner_height" "5"	
+		}
+		
+		"TipText"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"TipText"
+			"font"			"HudFontSmallest"
+			"labelText"		"%tiptext%"
+			"textAlignment"		"center"
+			"xpos"			"10"
+			"ypos"			"4"
+			"zpos"			"11"
+			"wide"			"460"
+			"centerwrap"		"1"
+			"tall"			"40"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"wrap"			"1"
+			"fgcolor"		"ZeesWhite"
+		}
+		
+		"NextTipButton"
+		{
+			"ControlName"	"CExButton"
+			"fieldName"		"NextTipButton"
+			"visible"		"0"
+			"enabled"		"0"
+		}
 	}
 }
