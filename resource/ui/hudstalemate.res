@@ -18,15 +18,16 @@
 		"draw_corner_width"		"5"
 		"draw_corner_height" 	"5"
 	}
+
 	"StalemateLabel"
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"StalemateLabel"
 		"font"			"HudFontMedium"
-		"xpos"			"25"
+		"xpos"			"85"
 		"ypos"			"17"
 		"zpos"			"1"
-		"wide"			"280"
+		"wide"			"320"
 		"tall"			"35"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -34,7 +35,7 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
-		"textAlignment"		"northwest"
+		"textAlignment"		"center"
 	}
 	"ReasonLabel"
 	{	
@@ -52,6 +53,6 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		""
-		"textAlignment"		"northwest"
+		"textAlignment"		"center"
 	}
 }
