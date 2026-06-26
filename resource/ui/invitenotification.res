@@ -132,6 +132,9 @@
 		"armedBgColor_override"		"ZeesGreen"
 		"defaultBgColor_override"	"ZeesDarkGreen"
 		"depressedBgColor_override"	"ZeesDarkGreen"
+		"textinsety"		"-1"
+		"border_default"	"WhiteBorderThick"
+		"border_armed"		"WhiteBorderThick"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -169,8 +172,11 @@
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 		"armedBgColor_override"			"ZeesMain"
-		"depressedBgColor_override"		"DarkGrey"
-		"defaultBgColor_override"		"DarkGrey"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
+		"textinsety"		"-1"
+		"border_default"	"WhiteBorderThick"
+		"border_armed"		"WhiteBorderThick"
 
 
 		"sound_depressed"	"UI/buttonclick.wav"
