@@ -151,11 +151,14 @@
 			"paintbackground"	"0"
 			
 			"armedBgColor_override"			"ZeesMain"
-			"depressedBgColor_override"		"DarkGrey"
-			"defaultBgColor_override"		"DarkGrey"
+			"depressedBgColor_override"		"ZeesBlack"
+			"defaultBgColor_override"		"ZeesBlack"
+			"textinsety"		"-1"
+			"border_default"	"WhiteBorderThick"
+			"border_armed"		"WhiteBorderThick"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"255 255 255 255"
+			"image_armedcolor"	"155 155 155 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

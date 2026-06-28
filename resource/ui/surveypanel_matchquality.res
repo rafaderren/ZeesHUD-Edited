@@ -52,7 +52,7 @@
 					"tall"			"f0"
 					"visible"		"1"
 					"PaintBackgroundType"	"2"
-					"border"		"InnerShadowBorder"
+					"border"		"WhiteBorderThick"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"
 				}
@@ -259,8 +259,11 @@
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"2"
 				"armedBgColor_override"			"ZeesMain"
-				"depressedBgColor_override"		"DarkGrey"
-				"defaultBgColor_override"		"DarkGrey"
+				"depressedBgColor_override"		"ZeesBlack"
+				"defaultBgColor_override"		"ZeesBlack"
+				"textinsety"		"-1"
+				"border_default"	"WhiteBorderThick"
+				"border_armed"		"WhiteBorderThick"
 			}
 		}
 	}	
