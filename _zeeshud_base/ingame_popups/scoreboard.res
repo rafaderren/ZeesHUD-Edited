@@ -488,7 +488,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"378"
+			"ypos"			"345"
 			"visible"		"1"
 		}
 	}
