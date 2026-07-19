@@ -233,6 +233,9 @@
 		"armedBgColor_override"			"ZeesMain"
 		"depressedBgColor_override"		"DarkGrey"
 		"defaultBgColor_override"		"DarkGrey"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 
 	"OpenLoadoutButton"
@@ -260,6 +263,9 @@
 		"armedBgColor_override"			"ZeesMain"
 		"depressedBgColor_override"		"DarkGrey"
 		"defaultBgColor_override"		"DarkGrey"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 
 	"DiscardButton"
