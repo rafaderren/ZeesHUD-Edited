@@ -74,7 +74,7 @@
 			"xpos"			"1"
 			"ypos"			"1"
 			"zpos"			"1"
-			"wide"			"20"
+			"wide"			"25"
 			"tall"			"20"
 			"autoResize"	"0"
 			"visible"		"0"
