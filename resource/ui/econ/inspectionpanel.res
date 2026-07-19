@@ -554,6 +554,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"command"	"random_seed"
+			"armedBgColor_override"			"ZeesMain"
+			"depressedBgColor_override"		"DarkGrey"
+			"defaultBgColor_override"		"DarkGrey"
 
 			"consume_mode"
 			{

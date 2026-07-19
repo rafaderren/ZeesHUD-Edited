@@ -178,7 +178,7 @@
 		"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"ZeesWhite"
-		"bgcolor_override"	"ZeesGray"
+		"bgcolor_override"	"100 100 100 125"
 		"paintbackgroundtype" "0"
 	}
 
