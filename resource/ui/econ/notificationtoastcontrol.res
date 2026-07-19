@@ -42,7 +42,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"delete"
-		"armedBgColor_override"	"LightRed"
+		"armedBgColor_override"	"ZeesRed"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
 
 		"SubImage"
 		{
@@ -88,6 +90,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"trigger"
 		"armedBgColor_override"	"ZeesGreen"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
 
 		"SubImage"
 		{
@@ -133,6 +137,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"accept"
 		"armedBgColor_override"	"ZeesGreen"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
 
 		"SubImage"
 		{
@@ -174,6 +180,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"decline"
 		"armedBgColor_override"	"LightRed"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
 
 		"SubImage"
 		{

@@ -69,8 +69,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"56 47 29 255"
-		"fgcolor_override" "56 47 29 255"
+		"fgcolor"		"ZeesBlack"
+		"fgcolor_override" "ZeesBlack"
 		"if_high_priority"
 		{
 			"fgcolor"			"BrightYellow"
@@ -78,7 +78,7 @@
 			"font"				"StorePromotionsTitle"
 		}
 		"xpos"			"7"
-		"ypos"			"7"
+		"ypos"			"9"
 		"zpos"			"2"
 		"wide"			"138"
 		"tall"			"38"
