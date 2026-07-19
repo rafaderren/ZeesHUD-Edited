@@ -293,7 +293,7 @@
 				"fieldName"			"chargeamount"
 				"font"				"HudFontSmallest"
 				"xpos"				"126"
-				"ypos"				"2"
+				"ypos"				"3"
 				"zpos"				"6"
 				"wide"				"25"
 				"tall"				"13"
