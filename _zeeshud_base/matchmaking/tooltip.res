@@ -11,7 +11,7 @@
 		"tall"			"100"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"MainMenuBGBorder"
+		"border"		"ZeesBorderWhiteOpaque"
 		"mouseinputenabled"	"0"
 		
 		"TipLabel"
