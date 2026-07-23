@@ -107,6 +107,23 @@
 			"wrap"			"1"
 		}
 
+		"RafLink"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"RafLink"
+			"font"			"FUTURA_BOLD_8"
+			"labelText"		"http://steamcommunity.com/profiles/76561199019556010"
+			"textAlignment"	"north-west"
+			"xpos"			"181"
+			"ypos"			"81"
+			"wide"			"300"
+			"tall"			"200"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 60"
+			"wrap"			"1"
+		}
+
 		"RafaPFP"
 		{
 			"ControlName"	"ImagePanel"
@@ -122,6 +139,20 @@
 			"image"			"replay/thumbnails/RafaPFP"
 			"fgcolor"		"255 255 255 255"
 			"bgcolor_override"	"0 0 0 0"
+		}
+
+		"RafaBorder"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"RafaBorder"
+			"xpos"			"45"
+			"ypos"			"46"
+			"zpos"			"-3"
+			"wide"			"110"
+			"tall"			"109"
+			"visible"		"1"
+			"enabled"		"1"
+			"border"		"ZeesBorderWhiteTransparent"
 		}
 
 		"CreditsButtonCrayon"
@@ -169,6 +200,23 @@
 			"wrap"			"1"
 		}
 
+		"CrayonLink"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"CrayonLink"
+			"font"			"FUTURA_BOLD_8"
+			"labelText"		""
+			"textAlignment"	"north-west"
+			"xpos"			"181"
+			"ypos"			"217"
+			"wide"			"300"
+			"tall"			"200"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 60"
+			"wrap"			"1"
+		}
+
 		"CrayonPFP"
 		{
 			"ControlName"	"ImagePanel"
@@ -184,6 +232,20 @@
 			"image"			"replay/thumbnails/CrayonPFP"
 			"fgcolor"		"255 255 255 255"
 			"bgcolor_override"	"0 0 0 0"
+		}
+
+		"CrayonBorder"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"CrayonBorder"
+			"xpos"			"45"
+			"ypos"			"182"
+			"zpos"			"-3"
+			"wide"			"110"
+			"tall"			"109"
+			"visible"		"1"
+			"enabled"		"1"
+			"border"		"ZeesBorderWhiteTransparent"
 		}
 
 		"CreditsButtonJess"
@@ -231,10 +293,24 @@
 			"bgcolor_override"	"0 0 0 0"
 		}
 
+		"JessBorder"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"JessBorder"
+			"xpos"			"45"
+			"ypos"			"321"
+			"zpos"			"-3"
+			"wide"			"110"
+			"tall"			"109"
+			"visible"		"1"
+			"enabled"		"1"
+			"border"		"ZeesBorderWhiteTransparent"
+		}
+
 		"JessDesc"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"CrayonDesc"
+			"fieldName"		"JessDesc"
 			"font"			"FUTURA_BOLD_24"
 			"labelText"		"Project Contributor"
 			"textAlignment"	"north-west"
@@ -245,6 +321,23 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override"	"ZeesWhite"
+			"wrap"			"1"
+		}
+
+		"JessLink"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"JessLink"
+			"font"			"FUTURA_BOLD_8"
+			"labelText"		"http://steamcommunity.com/profiles/76561198384108974"
+			"textAlignment"	"north-west"
+			"xpos"			"181"
+			"ypos"			"357"
+			"wide"			"300"
+			"tall"			"200"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 60"
 			"wrap"			"1"
 		}
 
