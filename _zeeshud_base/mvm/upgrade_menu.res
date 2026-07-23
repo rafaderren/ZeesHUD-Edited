@@ -49,9 +49,9 @@
         "ControlName" "CTFImagePanel"
         "fieldName"   "Weaponnamebackground"
         "xpos"        "192"
-        "ypos"        "143"      // top padding
+        "ypos"        "143"
         "wide"        "148"
-        "tall"        "215"     // slightly less than parent tall
+        "tall"        "215"
         "zpos"        "0"
 
         "image"       "replay/thumbnails/box_3_mvm"

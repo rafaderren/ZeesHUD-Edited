@@ -1,29 +1,31 @@
 WE LOST TRACK LOL
 
+Fixes:
+
 -fixed payloads in pl mode not showing players on the payload
 -fixed floating health on robots and teammates
 -fixed spectator killstreak icon overlapping the killstreak counter
 -fixed healed target ammo icon overlapping the ammo counter
--fixed casual medals in scoreboard
+-fixed casual medals on the scoreboard
 -fixed centered meters addon overlapping with pd ui (vsh if its not map divided anymore)
 -fixed mode selection texts being cut off
 -fixed typo in classic style PlayerStatus_RuneSupernova and killcam itemmodelpanel
--fixed topbar weird text position
+-fixed weird text position on the topbar
 -fixed killfeed always forced red tint if the weapon is not a crit kill on australium weapons
 -fixed missing kill icons
--fixed badge selection being put way too under
+-fixed badge selection being positioned too low
 -fixed spectator lists on the mvm scoreboard
 -fixed the custom intro
 -fixed mvm bomb indicator and upgrades
 -fixed party chat textbox positioning and width (party chat box is hardcoded)
 -fixed mvm matchmaking missing a background
 -fixed sudden death label being cut off
--fixed mannhattan points that was taken by robots using the tf2 texture
+-fixed mannhattan points that were taken by robots using the tf2 texture
 -fixed quickswitch ui being cut off on the end
 -fixed reinforcement time on mvm being overlapped with remaining bots
 -fixed payload line not being centered
 -fixed mvm spy sapper using canteen instead of meters
--fixed high tour numbers being hidden in the mann up queue section
+-fixed high tour count numbers being hidden in the mann up queue section
 -fixed cosmetic style preview showing blank
 -fixed stock items checkbox not working
 -fixed cp_steel points using the tf2 texture
@@ -31,12 +33,12 @@ WE LOST TRACK LOL
 -fixed compatibility with alt font on certain HUD styles
 -fixed classic style ammo counter turning into boxes when it reaches 100+ ammo
 -fixed classic style minmode ammo being offset
--fixed default confim dialog (coaching, quit, etc)
+-fixed default confirm dialog (coaching, quit, etc)
 -fixed default meter not having the correct zpos for certain weapon combinations
 -fixed disguise menu toggle label being cut off
 -fixed casual prematch door red panel BG being missing
 -fixed item ad title font being cut off
--fixed a few elements to be compattible with 4:3 (nothing big)
+-fixed a few elements to be compatible with 4:3 (nothing big)
 -fixed spy disguise kit numbers not showing
 -fixed checkbox text using the default tf2 text color
 -fixed ad font being cut off
@@ -57,10 +59,12 @@ WE LOST TRACK LOL
 -fixed dashboard colors (Jess Fox)
 -fixed overtime label on koth
 
+Improvements:
+
 -overhauled the look of the training menu, backpack menu and all of it's sub-menus, notification alert, trading panel, item inspecting, trade up panel, advanced options, mode selection, mann co. store, match found and abandon popup, matchmaking settings, workshop panel, duel minigame panel, coach panel and credits menu (Jess Fox)
 -robot count icons now have sharp corners (Jess Fox)
 -improved the look of leaderboard icons for domination, nemesis and dead statuses (Jess Fox)
--improved the look of the mvm class upraded icon on class selection screen (Jess Fox)
+-improved the look of the mvm class upgraded icon on class selection screen (Jess Fox)
 -u̶̶̶p̶̶̶d̶̶̶a̶̶̶t̶̶̶e̶̶̶d̶̶̶ ̶f̶̶̶l̶̶̶o̶̶̶a̶̶̶t̶̶̶i̶̶̶n̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶t̶̶̶o̶̶̶ ̶s̶̶̶u̶̶̶p̶̶̶p̶̶̶o̶̶̶r̶̶̶t̶̶̶ ̶b̶̶̶i̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶n̶̶̶u̶̶̶m̶̶̶b̶̶̶e̶̶̶r̶̶̶s̶̶̶
 -updated the loading screen to look more lively
 -updated the map picture to look bigger
@@ -137,6 +141,8 @@ WE LOST TRACK LOL
 -improved halloween spell and minigame UI (Jess Fox)
 -restored tips panel in mvm upgrade menu (Jess Fox)
 
+Additions:
+
 -added a zeeshud styled skull control point (im not sure where it's used)
 -added back old zeeshud backgrounds
 -added pull requests from the github page
@@ -172,7 +178,9 @@ WE LOST TRACK LOL
 -added casual VSH support (Jess Fox)
 -added a background to "Playing To: " Labels (Jess Fox)
 
--removed mod_textures.res to avoid new killicons from being unregistered
+Removals:
+
+-removed mod_textures.res to avoid new kill icons from being unregistered
 -removed unused hud files
 -removed centered meters from the default addons
 -removed centered metals from the default addons

@@ -1,3 +1,3 @@
-I highly recommend enabling the target_health_font_smaller addon to see the full giant robot healths.
+I highly recommend enabling the target_health_font_smaller addon to see the full giant robot health.
 If you want to turn it off while in game you can drag the folder out and use hud_reloadscheme or use
 the reload button on the bottom right.
