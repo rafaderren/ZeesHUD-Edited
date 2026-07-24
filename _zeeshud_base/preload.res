@@ -976,6 +976,26 @@
 		"enabled"		"1"
 		"image"			"../hud/leaderboard_streak"
 	}
+	
+	"dead_icon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"dead_icon"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/leaderboard_dead"
+	}
+	
+	"dom_icon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"dom_icon"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/leaderboard_dominated"
+	}
 
 	"cart"
 	{
