@@ -132,7 +132,7 @@ Improvements:
 -updated arena team select, arena victory panel, arena notification, arena player count and arena team composition (Jess Fox, Crayon)
 -restored team join binds and cancel button
 -updated casual scoreboards, map voting, end of round xp panel and match survey (Jess Fox)
--updated party invite panel (Jess Fox)
+-updated party invite panel and item found panel (Jess Fox)
 -updated capture progress texture
 -restored and updated defense buff icons
 -updated overtime pulse color
