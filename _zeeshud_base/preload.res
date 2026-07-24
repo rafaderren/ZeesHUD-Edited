@@ -977,6 +977,26 @@
 		"image"			"../hud/leaderboard_streak"
 	}
 	
+	"ks_icon2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ks_icon2"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/scoreboard_streak"
+	}
+	
+	"ks_icon3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ks_icon3"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/scoreboard_streak_d"
+	}
+	
 	"dead_icon"
 	{
 		"ControlName"	"ImagePanel"
