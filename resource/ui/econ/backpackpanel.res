@@ -459,7 +459,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ZeesMain"
+		"fgcolor_override" "ZeesWhite"
 	}
 
 	"NextPageButton"

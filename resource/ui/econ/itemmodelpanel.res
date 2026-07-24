@@ -164,7 +164,7 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"ZeesMain"
+			"fgcolor"		"ZeesWhite"
 			"bgcolor_override"		"ColorBlack"
 			"PaintBackgroundType"	"2"
 		}
