@@ -1067,25 +1067,25 @@
 		"image"			"../hud/defense_buff_fire_red"
 	}
 	
-	"dnegleaderboardstreak"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"dnegleaderboardstreak"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/dneg_leaderboard_streak"
-	}
+	// "dnegleaderboardstreak"
+	// {
+	// 	"ControlName"	"ImagePanel"
+	// 	"fieldName"		"dnegleaderboardstreak"
+	// 	"xpos"			"9999"
+	// 	"visible"		"1"
+	// 	"enabled"		"1"
+	// 	"image"			"../hud/dneg_leaderboard_streak"
+	// }
 	
-	"dnegleaderboardduck"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"dnegleaderboardduck"
-		"xpos"			"9999"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/dneg_leaderboard_duck"
-	}
+	// "dnegleaderboardduck"
+	// {
+	// 	"ControlName"	"ImagePanel"
+	// 	"fieldName"		"dnegleaderboardduck"
+	// 	"xpos"			"9999"
+	// 	"visible"		"1"
+	// 	"enabled"		"1"
+	// 	"image"			"../hud/dneg_leaderboard_duck"
+	// }
 	
 	//=====================================
 	//
