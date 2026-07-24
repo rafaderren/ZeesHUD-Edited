@@ -140,6 +140,7 @@ Improvements:
 -improved player destruction and passtime UI's (Jess Fox)
 -improved halloween spell and minigame UI (Jess Fox)
 -restored tips panel in mvm upgrade menu (Jess Fox)
+-improved the buttons inside class loadouts (Jess Fox)
 
 Additions:
 
