@@ -178,6 +178,7 @@ Additions:
 -added team colored class selection buttons
 -added casual VSH support (Jess Fox)
 -added a background to "Playing To: " Labels (Jess Fox)
+-added letterboxing to motd panels (Jess Fox)
 
 Removals:
 

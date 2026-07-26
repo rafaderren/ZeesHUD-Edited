@@ -76,10 +76,10 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 
-		"fgcolor"					"TanLight"
+		"fgcolor"					"ZeesWhite"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanDark"
+		"armedFgColor_override"		"ZeesMain"
+		"depressedFgColor_override" "ZeesWhite"
 		"selectedFgColor_override" 	"TanDark"
 	}
 	

@@ -53,10 +53,10 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 		
-		"fgcolor"					"TanLight"
+		"fgcolor"					"ZeesWhite"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanDark"
+		"armedFgColor_override"		"ZeesMain"
+		"depressedFgColor_override" "ZeesWhite"
 		"selectedFgColor_override" 	"TanDark"
 	}
 
@@ -83,10 +83,10 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 		
-		"fgcolor"					"TanLight"
+		"fgcolor"					"ZeesWhite"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanDark"
+		"armedFgColor_override"		"ZeesMain"
+		"depressedFgColor_override" "ZeesWhite"
 		"selectedFgColor_override" 	"TanDark"
 	}
 	
@@ -111,10 +111,10 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 		
-		"fgcolor"					"TanLight"
+		"fgcolor"					"ZeesWhite"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanDark"
+		"armedFgColor_override"		"ZeesMain"
+		"depressedFgColor_override" "ZeesWhite"
 		"selectedFgColor_override" 	"TanDark"
 	}
 
@@ -139,10 +139,10 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 		
-		"fgcolor"					"TanLight"
+		"fgcolor"					"ZeesWhite"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanDark"
+		"armedFgColor_override"		"ZeesMain"
+		"depressedFgColor_override" "ZeesWhite"
 		"selectedFgColor_override" 	"TanDark"
 	}
 	
@@ -158,7 +158,7 @@
 		"ControlName"	"CTFVideoPanel"
 		"fieldName"		"VideoPanel"
 		"xpos"			"c-145"
-		"ypos"			"c-183"
+		"ypos"			"c-170"
 		"zpos"			"3"		
 		"wide"			"300"
 		"tall"			"225"
@@ -197,5 +197,64 @@
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"
 		"wrap"			"1"
+	}
+	"BackgroundFooter"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BackgroundFooter"
+		"xpos"			"0"
+		"ypos"			"420"
+		"zpos"			"0"
+		"wide"			"f0"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/items/footer"
+		"scaleImage"		"1"
+	}
+
+	"BackgroundFooterfill"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BackgroundFooterfill"
+		"xpos"			"0"
+		"ypos"			"440"
+		"zpos"			"0"
+		"wide"			"f0"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"0 0 0 255"
+		"scaleImage"		"1"
+	}
+
+	"BackgroundFooter2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BackgroundFooter2"
+		"xpos"			"0"
+		"ypos"			"27"
+		"zpos"			"0"
+		"wide"			"f0"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/items/footer2"
+		"scaleImage"		"1"
+	}
+
+	"BackgroundFooter2fill"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BackgroundFooter2fill"
+		"xpos"			"0"
+		"ypos"			"-11"
+		"zpos"			"0"
+		"wide"			"f0"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"0 0 0 255"
+		"scaleImage"		"1"
 	}	
 }
