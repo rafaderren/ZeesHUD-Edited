@@ -1461,10 +1461,10 @@ Scheme
 			"backgroundtype"		"2"
 			"color"					"QualityColorrarity4"
 			"image"					"replay/thumbnails/box_3_n"
-			"src_corner_height"		"24"				// pixels inside the image
-			"src_corner_width"		"24"
-			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"2"
+			"src_corner_height"		"30"				// pixels inside the image
+			"src_corner_width"		"30"
+			"draw_corner_width"		"5"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"
 		}
 
 		BackpackItemMouseOverBorder_4
