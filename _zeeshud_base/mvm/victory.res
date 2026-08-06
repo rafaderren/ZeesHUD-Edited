@@ -16,17 +16,18 @@
 		
 		"StatsBackground"
 		{
-			"ControlName"		"ScalableImagePanel"
+			"ControlName"		"EditablePanel"
 			"fieldName"		"SplashBackground"
 			"xpos"			"0"
 			"ypos"			"0"
+			"zpos"			"-1"
 			"wide"			"530"
 			"tall"			"230"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"replay/thumbnails/box_3_n"
+			"border"		"ZeesBorderWhiteOpaque"
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
@@ -70,7 +71,7 @@
 				"ypos"			"12"
 				"wide"			"530"
 				"tall"			"40"
-				"fgcolor"		"Orange"
+				"fgcolor"		"ZeesMain"
 			}
 		}
 	
@@ -81,6 +82,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_PVE_Currency"
 			"textAlignment" "north-west"
+			"zpos"			"150"
 			"xpos"			"80"
 			"ypos"			"80"
 			"wide"			"300"
@@ -94,6 +96,7 @@
 			"fieldName"		"CreditContainer"
 			"xpos"			"80"
 			"ypos"			"90"
+			"zpos"			"150"
 			"wide"			"400"
 			"tall"			"70"
 			"autoResize"	"1"
@@ -191,6 +194,10 @@
 		
 		"image_drawcolor"	"235 226 202 255"
 		"Command"		"done"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 
 		"pin_to_sibling"               "StatsContainer"
 		"pin_corner_to_sibling"        "1"          

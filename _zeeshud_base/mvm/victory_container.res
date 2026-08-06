@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"bgcolor_override"		"20 20 20 245"
+		"bgcolor_override"		"0 0 0 225"
 	}
 	
 
@@ -33,8 +33,8 @@
 			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"50"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"image"			"mvm/smallbanner"
 			"scaleImage"    "1"
 			
@@ -43,6 +43,21 @@
 		
 			"draw_corner_width"	"10"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"10"	
+		}
+
+		"BannerBorder"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"BannerBorder"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"600"
+			"tall"			"50"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"mvm/smallbanner"
+			"scaleImage"    "1"
+			"border"		"ZeesBorderWhiteOpaque"		
 		}
 		
 		"BannerTextDropShadow"
@@ -53,7 +68,7 @@
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			"xpos"			"2"
-			"ypos"			"2"
+			"ypos"			"9"
 			"wide"			"600"
 			"tall"			"35"
 			"fgcolor"		"0 0 0 255"
@@ -67,7 +82,7 @@
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"7"
 			"wide"			"600"
 			"tall"			"35"
 			"fgcolor"		"tanlight"

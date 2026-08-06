@@ -141,6 +141,7 @@ Improvements:
 -improved halloween spell and minigame UI (Jess Fox)
 -restored tips panel in mvm upgrade menu (Jess Fox)
 -improved the buttons inside class loadouts (Jess Fox)
+-slightly improved the look of mvm boot camp victory screen (Jess Fox)
 
 Additions:
 

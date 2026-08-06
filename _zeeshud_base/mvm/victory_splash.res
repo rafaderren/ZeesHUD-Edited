@@ -14,15 +14,19 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
-			"xpos"			"25"
-			"ypos"			"0"
-			"wide"			"250"
+			"xpos"			"65"
+			"ypos"			"3"
+			"wide"			"170"
 			"tall"			"70"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"../hud/ammo_red_bg"
+			"image"			"replay/thumbnails/box_3_r"
+			"src_corner_height"		"23"
+			"src_corner_width"		"23"
+			"draw_corner_width"		"10"
+			"draw_corner_height" 	"10"
 		}
 		
 		"SplashLabelShadow"
