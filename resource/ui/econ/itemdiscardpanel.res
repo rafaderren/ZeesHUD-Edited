@@ -16,7 +16,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"46 43 42 255"
+		"bgcolor_override"				"0 0 0 255"
 		"infocus_bgcolor_override"		"46 43 42 255"
 		"outoffocus_bgcolor_override"	"46 43 42 255"
 		
@@ -34,7 +34,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"modelpanel"
 		"xpos"			"c-75"
-		"ypos"			"30"
+		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"100"
@@ -69,6 +69,7 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
+		"border"	"ZeesBorderWhiteOpaque"
 		
 		"text_ypos"			"20"
 		"text_center"		"1"
@@ -103,7 +104,7 @@
 		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"c-105"
-		"ypos"			"40"
+		"ypos"			"39"
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"15"
@@ -111,7 +112,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "ZeesMain"
 	}
 	
 	"ExplanationLabel"
@@ -121,7 +122,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"#DiscardExplanation"
 		"textAlignment"	"north"
-		"xpos"			"c-280"
+		"xpos"			"c-285"
 		"ypos"			"40"
 		"zpos"			"10"
 		"wide"			"175"
@@ -193,8 +194,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"DiscardButton"
-		"xpos"			"c125"
-		"ypos"			"90"
+		"xpos"			"c150"
+		"ypos"			"435"
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
@@ -212,6 +213,10 @@
 		"Command"		"discarditem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}			
 	
 	"backpack_panel"
@@ -251,6 +256,10 @@
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 	
 	"ShowExplanationsButton"
@@ -276,6 +285,10 @@
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 	
 	"StartExplanation"

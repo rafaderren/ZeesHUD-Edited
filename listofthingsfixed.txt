@@ -58,6 +58,7 @@ Fixes:
 -minor layout and color fixes for various elements (Jess Fox)
 -fixed dashboard colors (Jess Fox)
 -fixed overtime label on koth
+-fixed item discard panel (Jess Fox)
 
 Improvements:
 
