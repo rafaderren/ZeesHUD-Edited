@@ -23,7 +23,7 @@
 		"textAlignment"		"west"
 		"xpos"				"c-265"
 		"ypos"				"c-30"
-		"wide"				"270"
+		"wide"				"670"
 		"tall"				"30"
 		"fgcolor"			"TanLight"
 	}
