@@ -182,7 +182,7 @@
 		"xpos"				"c-270"
 		"ypos"				"10"
 		"zpos"				"1"
-		"wide"				"370"
+		"wide"				"210"
 		"tall"				"25"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -569,7 +569,13 @@
 		"Command"		"canceltool"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"bgcolor_override"	"ZeesDarkGray"
+		"textinsety"		"0"
+		"paintbackground"	"1"
+		"border_default"	"WhiteBorderThick"
+		"border_armed"		"WhiteSelectedBorderThick"
+		"armedBgColor_override"			"ZeesBlack"
+		"depressedBgColor_override"		"ZeesBlack"
+		"defaultBgColor_override"		"ZeesBlack"
 	}
 
 
