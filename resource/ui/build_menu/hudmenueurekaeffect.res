@@ -57,7 +57,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
 		"font"				"FUTURA_BOLD_24"
-		"xpos"				"28"
+		"xpos"				"30"
 		"ypos"				"13"
 		"zpos"				"2"
 		"wide"				"380"
