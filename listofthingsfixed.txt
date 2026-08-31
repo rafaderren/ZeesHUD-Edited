@@ -145,6 +145,7 @@ Improvements:
 -slightly improved the look of mvm boot camp victory screen (Jess Fox)
 -restored flawless victory label in arena (Jess Fox)
 -updated the look of control point letter label icons (Jess Fox)
+-made the mvm/comp ready label colored green if player readies up (Jess Fox)
 
 Additions:
 
@@ -183,6 +184,7 @@ Additions:
 -added casual VSH support (Jess Fox)
 -added a background to "Playing To: " Labels (Jess Fox)
 -added letterboxing to motd panels (Jess Fox)
+-added borders to round state labels (overtime, setup etc.) (Jess Fox)
 
 Removals:
 
