@@ -769,7 +769,7 @@ event HudReadyPulseLoop
 
 event HudReadyPulseEnd
 {
-	Animate	TournamentInstructionsLabel 	FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	TournamentInstructionsLabel 	FgColor		"56 179 72 255"		Linear 0.0 0.1
 	
 	StopEvent HudReadyPulse			0.0
 	StopEvent HudReadyPulseLoop		0.0
