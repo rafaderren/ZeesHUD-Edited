@@ -143,6 +143,8 @@ Improvements:
 -restored tips panel in mvm upgrade menu (Jess Fox)
 -improved the buttons inside class loadouts (Jess Fox)
 -slightly improved the look of mvm boot camp victory screen (Jess Fox)
+-restored flawless victory label in arena (Jess Fox)
+-updated the look of control point letter label icons (Jess Fox)
 
 Additions:
 

@@ -327,10 +327,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"DetailsLabel"
 		"font"			"Default"
-		"xpos"			"35"
-		"ypos"			"122"
-		"zpos"			"1"
-		"wide"			"418"
+		"xpos"			"185"
+		"ypos"			"52"
+		"zpos"			"111"
+		"wide"			"75"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -338,6 +338,8 @@
 		"enabled"		"1"
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"	"Center"
+		"border"		"ZeesMenuButton"
+		"paintborder"		"1"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
@@ -363,7 +365,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TopPlayerLabel"
 		"font"			"Default"
-		"xpos"			"50"
+		"xpos"			"36"
 		"ypos"			"64"
 		"zpos"			"3"
 		"wide"			"190"
@@ -382,7 +384,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageThisRoundLabel"
 		"font"			"Default"
-		"xpos"			"265"
+		"xpos"			"272"
 		"ypos"			"64"
 		"zpos"			"3"
 		"wide"			"40"
@@ -420,7 +422,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
 		"font"			"Default"
-		"xpos"			"360"
+		"xpos"			"355"
 		"ypos"			"64"
 		"zpos"			"3"
 		"wide"			"35"
@@ -439,7 +441,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
 		"font"			"Default"
-		"xpos"			"400"
+		"xpos"			"395"
 		"ypos"			"64"
 		"zpos"			"3"
 		"wide"			"25"
@@ -475,10 +477,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ArenaWinPanelWinnersPanel"
-		"xpos"			"20"
+		"xpos"			"16"
 		"ypos"			"76"
 		"wide"			"530"
-		"tall"			"46"
+		"tall"			"50"
 		"visible"		"1"
 		"zpos"			"3"
 
@@ -526,7 +528,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -534,7 +536,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -543,7 +545,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -551,7 +553,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -560,7 +562,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -568,7 +570,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -577,7 +579,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -585,7 +587,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"4"
 			"wide"			"25"
 			"tall"			"14"
@@ -594,7 +596,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -642,7 +644,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -650,7 +652,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -659,7 +661,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -667,7 +669,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -676,7 +678,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -684,7 +686,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -693,7 +695,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -701,7 +703,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"19"
 			"wide"			"25"
 			"tall"			"14"
@@ -710,7 +712,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -758,7 +760,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -766,7 +768,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -775,7 +777,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -783,7 +785,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -792,7 +794,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -800,7 +802,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -809,7 +811,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -817,7 +819,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"34"
 			"wide"			"25"
 			"tall"			"14"
@@ -826,7 +828,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -835,10 +837,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ArenaWinPanelLosersPanel"
-		"xpos"			"20"
+		"xpos"			"16"
 		"ypos"			"76"
 		"wide"			"530"
-		"tall"			"46"
+		"tall"			"50"
 		"visible"		"1"
 		"zpos"			"3"
 
@@ -886,7 +888,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -894,7 +896,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -903,7 +905,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -911,7 +913,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -920,7 +922,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -928,7 +930,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"4"
 			"wide"			"35"
 			"tall"			"14"
@@ -937,7 +939,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -945,7 +947,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player1Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"4"
 			"wide"			"25"
 			"tall"			"14"
@@ -954,7 +956,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1002,7 +1004,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1010,7 +1012,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -1019,7 +1021,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1027,7 +1029,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -1036,7 +1038,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1044,7 +1046,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"19"
 			"wide"			"35"
 			"tall"			"14"
@@ -1053,7 +1055,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1061,7 +1063,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player2Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"19"
 			"wide"			"25"
 			"tall"			"14"
@@ -1070,7 +1072,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1118,7 +1120,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1126,7 +1128,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Damage"
-			"xpos"			"241"
+			"xpos"			"257"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -1135,7 +1137,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1143,7 +1145,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Healing"
-			"xpos"			"289"
+			"xpos"			"298"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -1152,7 +1154,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1160,7 +1162,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Lifetime"
-			"xpos"			"335"
+			"xpos"			"339"
 			"ypos"			"34"
 			"wide"			"35"
 			"tall"			"14"
@@ -1169,7 +1171,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -1177,7 +1179,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Player3Kills"
-			"xpos"			"362"
+			"xpos"			"376"
 			"ypos"			"34"
 			"wide"			"25"
 			"tall"			"14"
@@ -1186,7 +1188,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
