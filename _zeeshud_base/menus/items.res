@@ -430,7 +430,7 @@
 		"controlname"		"imagepanel"
 		"fieldname"			"buttonsAnchor"
 		"xpos"				"c90"
-		"ypos"				"c-70"
+		"ypos"				"c-73"
 		"wide"				"0"
 		"tall"				"0"
 		"visible"			"1"
