@@ -232,7 +232,7 @@
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
-			"border"		"MainMenuBGBorder"
+			"border"		"WhiteBorderThick"
 
 			"ScrollBar"
 			{
@@ -241,7 +241,7 @@
 				"xpos"			"rs0.7-1"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"4" // This gets slammed from client schme.  GG.
+				"wide"			"0" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
