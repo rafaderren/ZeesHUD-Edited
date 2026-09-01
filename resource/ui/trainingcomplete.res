@@ -39,6 +39,10 @@
 			"font"			"MenuSmallFont"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"textinsety"		"-2"
+			"paintbackground"	"0"
+			"border_default"	"ZeesBorderWhiteOpaque"
+			"border_armed"		"ZeesBorderColorOpaque"
 		}
 
 		"Quit" [$WIN32] 
@@ -68,6 +72,10 @@
 			"font"			"MenuSmallFont"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"textinsety"		"-2"
+			"paintbackground"	"0"
+			"border_default"	"ZeesBorderWhiteOpaque"
+			"border_armed"		"ZeesBorderColorOpaque"
 		}	
 		
 		"Replay" [$WIN32] 
@@ -95,19 +103,23 @@
 			"fgcolor"		"Black"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"textinsety"		"-2"
+			"paintbackground"	"0"
+			"border_default"	"ZeesBorderWhiteOpaque"
+			"border_armed"		"ZeesBorderColorOpaque"
 		}
 		
 		"BottomBar"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"BottomBar"
-			"xpos"			"0"
+			"xpos"			"-25"
 			"ypos"			"r50"
 			"ypos_lodef"			"r74"
 			"ypos_hidef"			"r65"
 			"zpos"			"5"
-			"wide"			"f0"
-			"tall"			"50"
+			"wide"			"999"
+			"tall"			"60"
 			"tall_lodef"			"74"
 			"tall_hidef"			"65"
 			"autoResize"	"0"
@@ -115,21 +127,21 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"56 51 44 255"
 			"PaintBackgroundType"	"0"
+			"border"		"ZeesBorderWhiteOpaque"
 		}	
 
 		"TopBar"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"TopBar"
-			"xpos"			"0"
-			"ypos"			"0"
+			"xpos"			"-25"
+			"ypos"			"-10"
 			"ypos_lodef"			"r74"
 			"ypos_hidef"			"r65"
 			"zpos"			"5"
-			"wide"			"f0"
-			"tall"			"50"
+			"wide"			"999"
+			"tall"			"60"
 			"tall_lodef"			"74"
 			"tall_hidef"			"65"
 			"autoResize"	"0"
@@ -137,8 +149,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"56 51 44 255"
 			"PaintBackgroundType"	"0"
+			"border"		"ZeesBorderWhiteOpaque"
 		}
 	}
 
@@ -196,7 +208,7 @@
 			"tall"			"275"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"TrainingResultsBG"
+			"border"		"ZeesBorderWhiteOpaque"
 		}
 		"ResultsText"
 		{

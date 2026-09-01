@@ -188,6 +188,7 @@ Additions:
 -added borders to round state labels (overtime, setup etc.) (Jess Fox)
 -added custom icons to mvm/comp for players connecting and choosing class (Jess Fox)
 -added a custom icon to crit boosted robots in mvm (Jess Fox)
+-added support to tutorial popups (Jess Fox)
 
 Removals:
 
