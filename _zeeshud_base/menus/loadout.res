@@ -348,7 +348,7 @@
 		"command"			"sv_cheats 1;r_skin 0"
 
 		"defaultFgColor_override"	"ZeesRed"
-		"armedFgColor_override"		"ZeesDarkRed"
+		"armedFgColor_override"		"ZeesRed"
 		"armedBgColor_override"			"ZeesMain"
 		"depressedBgColor_override"		"DarkGrey"
 		"defaultBgColor_override"		"DarkGrey"
@@ -382,7 +382,7 @@
 		"command"			"sv_cheats 1;r_skin 1"
 
 		"defaultFgColor_override"	"ZeesBlue"
-		"armedFgColor_override"		"ZeesDarkBlue"
+		"armedFgColor_override"		"ZeesBlue"
 		"armedBgColor_override"			"ZeesMain"
 		"depressedBgColor_override"		"DarkGrey"
 		"defaultBgColor_override"		"DarkGrey"
