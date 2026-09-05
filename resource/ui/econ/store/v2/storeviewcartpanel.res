@@ -133,6 +133,7 @@
 				"border_armed"		"WhiteSelectedBorderThick"
 				"defaultBgColor_override"	"0 0 0 255"
 				"armedBgColor_override"		"0 0 0 255"
+				"depressedBgColor_override"	"0 0 0 100"
 			}
 
 			"PriceLabel"

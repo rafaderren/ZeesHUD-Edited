@@ -52,7 +52,7 @@
 			"labelText"		"%classname%"
 			"textAlignment"	"left"
 			"xpos"			"10"
-			"ypos"			"0"
+			"ypos"			"5"
 			"zpos"			"1"
 			"wide"			"430"
 			"tall"			"20"

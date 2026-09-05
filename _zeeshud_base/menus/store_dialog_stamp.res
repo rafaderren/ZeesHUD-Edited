@@ -17,8 +17,8 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
-		"bgcolor_override"		"DarkGrey"
+		"border"				"WhiteBorderThick"
+		"bgcolor_override"		"ZeesBlack"
 	}
 
 	"TitleLabel"
@@ -133,6 +133,10 @@
 		"Command"			"nope"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 
 	"ConfirmButton"
@@ -158,6 +162,10 @@
 		"Command"			"add_stamp_to_cart"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/vote_success.wav"
+		"textinsety"		"-2"
+		"paintbackground"	"0"
+		"border_default"	"ZeesBorderWhiteOpaque"
+		"border_armed"		"ZeesBorderColorOpaque"
 	}
 
 	"PriceLabel"
