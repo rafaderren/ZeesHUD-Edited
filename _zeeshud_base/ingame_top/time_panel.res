@@ -78,7 +78,7 @@
 		if_match
 		{
 			"xpos"			"5"
-			"ypos"				"22"
+			"ypos"				"32"
 		}
 	}
 	"OvertimeBG"

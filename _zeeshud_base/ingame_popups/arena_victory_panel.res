@@ -327,7 +327,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"DetailsLabel"
 		"font"			"Default"
-		"xpos"			"178"
+		"xpos"			"177"
 		"ypos"			"60"
 		"zpos"			"111"
 		"wide"			"75"
